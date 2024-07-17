@@ -1,7 +1,7 @@
-# README for Running the Wine Business ChatBot
+# README for Running the Business ChatBot
 
 - Introduction
-This README provides detailed instructions on how to run the Wine Business ChatBot application built using Streamlit and LangChain. The application reads a PDF containing information about a wine business and allows users to ask questions related to that information.
+This README provides detailed instructions on how to run the Business ChatBot application built using Streamlit and LangChain. The application reads a PDF containing information about a business and allows users to ask questions related to that information.
 
 - Requirements
 Before running the application, ensure you have the following installed:
