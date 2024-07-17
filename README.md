@@ -38,5 +38,5 @@ streamlit run app.py
 - Access the App: Open your web browser and go to http://localhost:8501 to access the ChatBot.
 
 ## Usage Instructions
-Ask a Question: In the input box, type your query related to the wine business.
-Get a Response: The ChatBot will return a quick answer based on the content of the PDF.
+- Ask a Question: In the input box, type your query related to the wine business.
+- Get a Response: The ChatBot will return a quick answer based on the content of the PDF.
