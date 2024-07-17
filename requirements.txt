@@ -1,0 +1,4 @@
+streamlit
+langchain
+PyPDF2
+langchain-google-genai
