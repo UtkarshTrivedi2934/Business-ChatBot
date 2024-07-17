@@ -20,8 +20,8 @@ Setup Instructions
 Clone the Repository: If applicable, clone the repository containing the app.py file.
 bash
 Copy code
-## git clone <repository-url>
-cd <repository-directory>
+## git clone repository-url
+## cd repository-directory
 
 - Prepare the PDF: Ensure you have a PDF file named Corpus.pdf located in the /content/ directory or adjust the file path in the code to point to your PDF.
 - API Key: Replace the placeholder Google API key in app.py with your actual API key:
